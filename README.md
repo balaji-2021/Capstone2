@@ -18,11 +18,17 @@ checked if there was any correlation between the volume of tweets with the volum
 
 The figure below shows the relationship between trade volume and tweet volume for Apple.
 
-<img width="760" alt="stockPrice to stockSentiment" src="Images\stockPrice to stockSentiment.png">
+<img width="760" alt="tweetvol and trade vol" src="Images\tweetvol and trade vol.png">
 
 The calculated values for other stocks is given in the table below.
 
 <img width="760" alt="Stock vol to tweet vol" src="Images\Stock vol to tweet vol.png">
 
 It looks like the volume of tweets has a positive correlation with the trade volume. However, the strength of the correlation is relatively low. Additionally, it is not certain that volume of tweets is always correlated with the share price as demonstrated in Microsoft's case where the p-value exceeded the predetermined threshold of 0.05. The significance of values observed above the threshold means the relationship is not statistically significant.
+
+Next,analyzed how the sentiment of the tweets impact the stock price. I categorized the tweet sentiments as either positive, negative or neutral using VADER Sentiment analyzer.
+The figure below shows the correlation and the p-value for Apple.
+
+<img width="760" alt="stockPrice to stockSentiment" src="Images\stockPrice to stockSentiment.png">
+
 
