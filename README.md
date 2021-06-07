@@ -46,3 +46,10 @@ I then performed a time series analysis to see if twitter sentiments can be used
 
 ### Scoring Metric
 Root Mean Square Error (RMSE)was used to compare the performance of various models. The expectation here is that twitter sentiment used along with stock data should give us a lower RMSE score, than when calculated with the univariate models ARIMA and Facebook Prophet.
+
+### Model Performance
+The RMSE values from the three models are as follows.
+
+<img width="760" alt="modelResults" src="Images\modelResults.png">
+
+
