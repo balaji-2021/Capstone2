@@ -32,3 +32,16 @@ The figure below shows the correlation and the p-value for Apple.
 <img width="760" alt="stockPrice to stockSentiment" src="Images\stockPrice to stockSentiment.png">
 
 
+The calculated values for other stocks is given in the table below.
+
+<img width="760" alt="tweet sentiments to stockprice" src="Images\tweet sentiments to stockprice.png">
+
+There seems to be a stronger correlation between the sentiment of the tweets and the share price of the company as compared to the previous hypothesis.
+
+I then performed a time series analysis to see if twitter sentiments can be used to predict stock prices. The analysis of time series is based on the assumption that successive values in the data file represent consecutive measurements taken at equal time intervals. I built the following models
+
+* ARIMA
+* Facebook Prophet
+* Vector Autoregression (VAR)
+
+
