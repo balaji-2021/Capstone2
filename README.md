@@ -3,9 +3,7 @@
 <img width="760" alt="Screen Shot 2021-06-06 at 5 58 09 PM" src="https://user-images.githubusercontent.com/78486516/121067253-ae102600-c77f-11eb-9811-a1ef0f7703ac.png">
 
 
+### Data
+This dataset used is a part of the paper published in 2020 IEEE International Conference on Big Data Special Session and is available in Kaggle. This dataset contains tweets that are written about Amazon, Apple, Google, Microsoft, and Tesla by using their appropriate share tickers. This dataset contains over 3 million unique tweets with their information.
 
-Contains all relevant files on Predicting Stock Price based on Twitter Sentiments of Stocks project for Springboard Capstone 2
-
-Code - Data Wrangling Noteboook Data Visualization Notebook Inferential Statistics Notebook Machine Learning Notebook
-
-Documents - Project Proposal, Final report
+https://www.kaggle.com/tweets
