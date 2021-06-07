@@ -1,4 +1,4 @@
-## Capstone 2: Predicting Stock Price based on Twitter Sentiments of Stocks
+## Capstone 2: Predicting Stock Price based on Twitter Sentiments
 
 <img width="760" alt="Screen Shot 2021-06-06 at 5 58 09 PM" src="https://user-images.githubusercontent.com/78486516/121067253-ae102600-c77f-11eb-9811-a1ef0f7703ac.png">
 
