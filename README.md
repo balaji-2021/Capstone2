@@ -5,7 +5,7 @@
 
 ### Problem Statement
 
-What opportunities exist in building models that makes useful predictions about the movement of stock based on the tweet sentiments. In particular the focus will be on using time-series analysis to predict the stock price based on previous day tweets about that stock. From a business perspective this could be useful in a number of ways. If tweet sentiments can be used in stock price predictions, trading strategies can be structured around those predictions. Buying/selling options would be ways to profit from periods of predicted high or low stock prices based on tweet sentiments.
+What opportunities exist in building models that makes useful predictions about the movement of stock based on the tweet sentiments. In particular the focus was on using time-series analysis to predict the stock price based on previous day tweets about that stock. From a business perspective this could be useful in a number of ways. If tweet sentiments can be used in stock price predictions, trading strategies can be structured around those predictions. Buying/selling options would be ways to profit from periods of predicted high or low stock prices based on tweet sentiments.
 
 ### Data
 This dataset used is a part of the paper published in 2020 IEEE International Conference on Big Data Special Session and is available in Kaggle. This dataset contains tweets that are written about Amazon, Apple, Google, Microsoft, and Tesla by using their appropriate share tickers. This dataset contains over 3 million unique tweets with their information.
