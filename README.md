@@ -15,6 +15,11 @@ The pricing data about these stocks that included closing price, high, low, dail
 ### Method
 
 checked if there was any correlation between the volume of tweets with the volume of stock traded. 
+
+The figure below shows the relationship between trade volume and tweet volume for Apple.
+
+<img width="760" alt="stockPrice to stockSentiment" src="https://user-images.githubusercontent.com/78486516/121067253-ae102600-c77f-11eb-9811-a1ef0f7703ac.png">
+
 The calculated values for other stocks is given in the table below.
 
-
+<img width="760" alt="Screen Shot 2021-06-06 at 5 58 09 PM" src="https://user-images.githubusercontent.com/78486516/121067253-ae102600-c77f-11eb-9811-a1ef0f7703ac.png">
