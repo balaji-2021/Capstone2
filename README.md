@@ -8,9 +8,8 @@ This dataset used is a part of the paper published in 2020 IEEE International Co
 
 <a href="https://www.kaggle.com/omermetinn/tweets-about-the-top-companies-from-2015-to-2020" target="_blank">Kaggle</a>
 
-The pricing data about these stocks that included closing price, high, low, daily volume was obtained from 
+The pricing data about these stocks that included closing price, high, low, daily volume was obtained from yahoo finance.
 
-<a href="https://www.finance.yahoo.com/" target="_blank">yahoo finance</a>
 
 ### Method
 
