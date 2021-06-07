@@ -6,4 +6,5 @@
 ### Data
 This dataset used is a part of the paper published in 2020 IEEE International Conference on Big Data Special Session and is available in Kaggle. This dataset contains tweets that are written about Amazon, Apple, Google, Microsoft, and Tesla by using their appropriate share tickers. This dataset contains over 3 million unique tweets with their information.
 
-https://www.kaggle.com/omermetinn/tweets-about-the-top-companies-from-2015-to-2020
+
+<a href="https://www.kaggle.com/omermetinn/tweets-about-the-top-companies-from-2015-to-2020" target="_blank">Kaggle</a>
