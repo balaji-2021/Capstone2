@@ -53,3 +53,14 @@ The RMSE values from the three models are as follows.
 <img width="760" alt="modelResults" src="Images\modelResults.png">
 
 
+### Conclusion
+
+I used time-series data and built univariate and multivariate models for our analysis. Though I found some correlation between stock price and tweet sentiments, when it comes to predicting the stock price this relationship remained inconclusive as seen from our model results.
+
+### Further Improvements
+
+* Use Deep learning models like LSTM. We can tinker with the LSTM architecture and hyperparameters to improve the model accuracy.
+* Instead of using a pre-trained VADER Sentiment Analyzer, we can train our own model by first creating training data. A custom trained model should give better sentiment results as it will get trained on the stock market news language.
+* There is some research that shows using GAN(Generative Adversarial Network), Reinforcement Learning can also be used to predict stock prices better.
+
+
